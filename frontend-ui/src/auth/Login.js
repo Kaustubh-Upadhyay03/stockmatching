@@ -59,7 +59,6 @@ const Login = () => {
 			setIsLoading(false);
 		}
 	};
-
 	const googleFailure = (error) => {
 		console.log(error);
 		console.log("Google Sign Up unsuccessful");

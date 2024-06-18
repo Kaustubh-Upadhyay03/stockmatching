@@ -62,7 +62,7 @@ const LandingBackground = () => {
 				src={imgLike}
 				alt="Like Button"
 				className="floating2 hidden-on-mobile"
-				style={{ position: "relative", top: "-35svh", left: "30vw" }}
+				style={{ position: "relative",  top: "-35svh", left: "30vw" }}
 			/>
 			<Image
 				boxSize="60px"

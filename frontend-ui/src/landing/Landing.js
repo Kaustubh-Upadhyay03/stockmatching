@@ -66,7 +66,7 @@ const Landing = () => {
 					py={"8"}
 				>
 					<Heading as="h2" pb="8" size={"lg"}>
-						How it Works
+						How does it Work
 					</Heading>
 					<Text>
 						Discovering your perfect stock match has never been this easy. Set
@@ -145,7 +145,7 @@ const Landing = () => {
 					</Flex>
 
 					<a
-						href="https://github.com/Aryanpatel335/StockMatch/"
+						href=""
 						target="_blank"
 						rel="noopener noreferrer"
 					>
